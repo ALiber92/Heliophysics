@@ -1,2 +1,2 @@
 # Heliophysics with Python
-Python routines for Heliophysics.
+General Python routines for Heliophysics.
